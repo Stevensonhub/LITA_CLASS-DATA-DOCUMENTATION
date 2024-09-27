@@ -15,3 +15,9 @@ This is where i would be documenting my first project while learning Data Analys
 
 ### Tools Used
 ----------
+ - Microsoft Excel
+   1. Data Cleaning
+   2. Data Analysis
+   3. Data Visualization
+ - SQL for query of data
+ - Github for portfolio building
