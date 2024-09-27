@@ -34,7 +34,8 @@ EDA involves exploration
 ### Data Analysis
 Tis is where we include some basis lines of codes and queries or even some of the DAX expression used during your analysis.
 
-..... SQL
-select * from Table1
-where condition = TRUE
-.....
+....SQL
+select*from Table1
+where 
+condition = TRUE
+....
