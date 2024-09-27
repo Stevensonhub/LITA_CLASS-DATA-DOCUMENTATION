@@ -39,3 +39,6 @@ select*from Table1
 where 
 condition = TRUE
 ....
+
+### Data Visualization
+
