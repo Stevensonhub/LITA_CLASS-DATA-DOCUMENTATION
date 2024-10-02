@@ -3,6 +3,15 @@
 ---
 ### Project Title: Analysing Data Reports and Feedbacks
 ---
+[Project Overview](#project-overview)
+[Data Source](#data-source)
+[Tools Used](#tools-used)
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+[Explorating Data Analysis](#exploring-data-analysis)
+[Data Analysis](#data-analysis)
+[Data Visualization](#data-visualization)
+[Making Headings](#making-headings)
+
 ### Project Overview: 
 The goal of this data analysis research is to produce understanding of Excel learning at the entry level. Learning Microsoft Excel entails becoming proficient in its core features, which include data entering, formatting, and using fundamental formulas like SUM, AVERAGE, and IF. It also covers more complex concepts like VLOOKUP, pivot tables, data analysis tools, and visualisation.
 ---
@@ -56,6 +65,9 @@ sSELECT * FROM TABLE1
 WHERE CONDITION = TRUE 
 
 ### Data Visualization
+
+### Making Headings
+
 
 
 
