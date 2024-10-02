@@ -1,7 +1,7 @@
 # LITA_CLASS-DATA-DOCUMENTATION
  I am currently training with The incubator hub as a Data Analyst, and this is where i would be documenting my first project. My proficiency in data preparation, validation, manipulation, analysis, and visualisation has improved significantly as a result of this experience. I am developing my capacity to extract meaning patterns for business decisions by working on practical projects that provide me with a greater understanding of data-driven decision making processes.
 ---
-### Project Title: Analysing Data Reports and Feedbacks
+### Project Title: Analysing Customer Data Reports and Feedback
 ---
 [Project Overview](#project-overview)
 
@@ -11,7 +11,7 @@
 
 [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 
-[Explorating Data Analysis](#exploring-data-analysis)
+[Exploring Data Analysis](#exploring-data-analysis)
 
 [Data Analysis](#data-analysis)
 
@@ -56,7 +56,7 @@ In the initial phase of data cleaning and preparation. we performed the followin
 - Working with worksheet, pivot table and charts
 - Data Cleaning and formatting
 
-### Explorating Data Analysis
+### Exploring Data Analysis
 EDA involves exploration of some data to answer decision making related questions
 1. What is te overall sales trend
 2. How many customers are satisfied with our product
@@ -68,10 +68,13 @@ EDA involves exploration of some data to answer decision making related question
 Here are some basic lines of code and functions used during the analysis.
 
 ```SQL
-sSELECT * FROM TABLE1
-WHERE CONDITION = TRUE 
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+---
 
 ### Data Visualization
+---
+
 
 ### Making Headings
 
