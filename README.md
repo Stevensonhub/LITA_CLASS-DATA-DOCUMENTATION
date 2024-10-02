@@ -59,6 +59,3 @@ WHERE CONDITION = TRUE
 ### Data Visualization
 
 
-
-![Capture 01](https://github.com/user-attachments/assets/e8a6a691-debb-44ee-9647-04bde80091e5)
-
