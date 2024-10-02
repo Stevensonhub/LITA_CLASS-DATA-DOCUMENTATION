@@ -4,12 +4,19 @@
 ### Project Title: Analysing Data Reports and Feedbacks
 ---
 [Project Overview](#project-overview)
+
 [Data Source](#data-source)
+
 [Tools Used](#tools-used)
+
 [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
 [Explorating Data Analysis](#exploring-data-analysis)
+
 [Data Analysis](#data-analysis)
+
 [Data Visualization](#data-visualization)
+
 [Making Headings](#making-headings)
 
 ### Project Overview: 
