@@ -29,12 +29,12 @@ The primary source of data used here is Customer.csv and this can be freely down
 3. FRED
 ---
 ### Tools Used
- - Microsoft Excel [Download here](https://www.microsoft.com)
+ - Microsoft Excel [Download Here](https://www.microsoft.com)
    1. Data Cleaning
    2. Data Analysis
    3. Data Visualization
       
- - SQL- Structured Query Language for managing data in Rational Database Management System and used in querying data-Types of SQL, SQL Commands and SQL Keys.
+ - SQL- Structured Query Language for managing data in Rational Database Management System and used in querying data-Types of SQL, SQL Commands and SQL Keys.[Download Here](https://www.sql.com)
    1. SQL syntax, data types, variables, select,where,
    2. And, Insert, Update, Delete, Min, Max, Count,Average, Sum
    3. Like, In, Between, Groupby, Orderby,
@@ -43,7 +43,7 @@ The primary source of data used here is Customer.csv and this can be freely down
        
  - Github for portfolio building [Download here](https://www.gitnub.com)
    
- - Power Bi is a data visualization and business intelligence tool that converts data from different data sources. Power BI does backend manipulation and it is geare towards business analysis. considering the following:
+ - Power Bi is a data visualization and business intelligence tool that converts data from different data sources. Power BI does backend manipulation and it is geare towards business analysis. [Download Here](https://www.powerBI.com)considering the following:
    1. Querying and Transforming Data
    2. Data Modelling
    3. Reports and Visualization
@@ -55,7 +55,7 @@ In the initial phase of data cleaning and preparation. we performed the followin
 - Handling working variables
 - Working with worksheet, pivot table and charts
 - Data Cleaning and formatting
-
+---
 ### Exploring Data Analysis
 EDA involves exploration of some data to answer decision making related questions
 1. What is te overall sales trend
@@ -70,9 +70,11 @@ Here are some basic lines of code and functions used during the analysis.
 ```SQL
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
+```
 ---
 
 ### Data Visualization
+
 ---
 
 
