@@ -41,7 +41,7 @@ The primary source of data used here is Customer.csv and this can be freely down
    4. Joins such as Inner, Outer, Left, Right, Full joins.
    5. Table commands such as Create.
        
- - Github for portfolio building [Download here](https://www.gitnub.com)
+ - Github for portfolio building [Download Here](https://www.gitnub.com)
    
  - Power Bi is a data visualization and business intelligence tool that converts data from different data sources. Power BI does backend manipulation and it is geare towards business analysis. [Download Here](https://www.powerBI.com)considering the following:
    1. Querying and Transforming Data
