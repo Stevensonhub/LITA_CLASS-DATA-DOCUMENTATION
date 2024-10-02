@@ -53,9 +53,9 @@ Here are some basic lines of code and functions used during the analysis.
 
 ```SQL
 sSELECT * FROM TABLE1
-WHERE CONDITION = TRUE
----
+WHERE CONDITION = TRUE 
 
 ### Data Visualization
+
 
 
