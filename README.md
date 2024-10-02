@@ -43,7 +43,7 @@ The primary source of data used here is Customer.csv and this can be freely down
        
  - Github for portfolio building [Download Here](https://www.gitnub.com)
    
- - Power Bi is a data visualization and business intelligence tool that converts data from different data sources. Power BI does backend manipulation and it is geare towards business analysis. [Download Here](https://www.powerBI.com)considering the following:
+ - Power Bi is a data visualization and business intelligence tool that converts data from different data sources. Power BI does backend manipulation and it is geare towards business analysis. [Download Here](https://www.powerBI.com) considering the following:
    1. Querying and Transforming Data
    2. Data Modelling
    3. Reports and Visualization
