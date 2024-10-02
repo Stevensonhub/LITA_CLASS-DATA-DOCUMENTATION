@@ -1,11 +1,12 @@
 # LITA_CLASS-DATA-DOCUMENTATION
-This is where i would be documenting my first project while learning Data Analysis with the Incubator Hub Company.
+ I am currently training with The incubator hub as a Data Analyst, and this is where i would be documenting my first project. My proficiency in data preparation, validation, manipulation, analysis, and visualisation has improved significantly as a result of this experience. I am developing my capacity to extract meaning patterns for business decisions by working on practical projects that provide me with a greater understanding of data-driven decision making processes.
 
-### Project Title: Ensuring
------------
+
+### Project Title: Analysing Data Reports and Feedbacks
 
 ### Project Overview: 
---------------
+The goal of this data analysis research is to produce understanding of Excel learning at the entry level. Learning Microsoft Excel entails becoming proficient in its core features, which include data entering, formatting, and using fundamental formulas like SUM, AVERAGE, and IF. It also covers more complex concepts like VLOOKUP, pivot tables, data analysis tools, and visualisation.
+
 
 ### Data Source: 
 -------------
@@ -19,20 +20,34 @@ This is where i would be documenting my first project while learning Data Analys
    1. Data Cleaning
    2. Data Analysis
    3. Data Visualization
- - SQL for query of data
+      
+ - SQL- Structured Query Language for managing data in Rational Database Management System and used in querying data-Types of SQL, SQL Commands and SQL Keys.
+   1. SQL syntax, data types, variables, select,where,
+   2. And, Insert, Update, Delete, Min, Max, Count,Average, Sum
+   3. Like, In, Between, Groupby, Orderby,
+   4. Joins such as Inner, Outer, Left, Right, Full joins.
+   5. Table commands such as Create.
+       
  - Github for portfolio building
+   
+ - Power Bi is a data visualization and business intelligence tool that converts data from different data sources. Power BI does backend manipulation and it is geare towards business analysis. considering the following:
+   1. Querying and Transforming Data
+   2. Data Modelling
+   3. Reports and Visualization
+   4. Dashboards
 
 ### Data Cleaning and Preparation
 In the initial phase of data cleaning and preparation. we performed the following:
-- Data location and inspection
+- Data collection and inspection
 - Handling working variables
+- Working with worksheet, pivot table and charts
 - Data Cleaning and formatting
 
 ### Explorating Data Analysis
 EDA involves exploration
 
 ### Data Analysis
-Tis is where we include some basis lines of codes and queries or even some of the DAX expression used during your analysis.
+Here some basic lines of code and functions was used during the analysis.
 
 ....SQL
 select*from Table1
